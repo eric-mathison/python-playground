@@ -1,4 +1,6 @@
-.csv
-.txt
-.zip
+*.csv
+*.txt
+*.zip
+*.deb
+*.png
 venv/
