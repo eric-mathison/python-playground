@@ -4,3 +4,4 @@
 *.deb
 *.png
 venv/
+config/
